@@ -1,0 +1,17 @@
+{
+  "name": "node-sandbox",
+  "version": "1.0.0",
+  "description": "Simple Node Sandbox",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js localhost 8080"
+  },
+  "dependencies": {
+    "koa": "2.11.0",
+    "koa-router": "7.4.0",
+    "koa-static": "5.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  }
+}

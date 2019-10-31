@@ -1,2 +1,0 @@
-# nodeSand
-Created with CodeSandbox
